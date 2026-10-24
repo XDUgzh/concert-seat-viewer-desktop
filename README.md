@@ -1,10 +1,10 @@
-# 演唱会座位模拟器 · Windows 网页入口
+# 演唱会座位模拟器 · 电脑与安卓网页入口
 
-**视野 Live 的非官方桌面入口包。** 解压后双击快捷方式，即可在浏览器中打开原作者的网站，查看场馆座位图与 3D 观演视角。使用时需要联网。
+**视野 Live 的非官方网页入口整理。** 电脑可以下载桌面快捷方式包，安卓手机可以直接用浏览器打开原站，并添加到主屏幕，查看场馆座位图与 3D 观演视角。使用时需要联网。
 
-**[下载 Windows 入口包](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases/latest/download/concert-seat-viewer-windows.zip)** · **[直接打开原站](https://shijiao.xingpaste.com/)** · [全部版本](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases)
+**[下载 Windows 入口包](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases/latest/download/concert-seat-viewer-windows.zip)** · **[安卓手机直接打开](https://shijiao.xingpaste.com/)** · **[安卓添加到主屏幕教程](ANDROID.md)** · [全部版本](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases)
 
-## 使用方法
+## Windows 电脑使用方法
 
 1. 下载上面的 ZIP 文件，右键选择“全部解压缩”。
 2. 打开解压后的文件夹，双击 **演唱会座位模拟器（网页版）.url**。
@@ -13,6 +13,16 @@
 可以把 `.url` 文件复制到桌面。建议使用较新的 Microsoft Edge 或 Google Chrome。macOS、Linux 用户可直接访问原站。
 
 这是一个联网网页入口，网站服务由原站提供和更新。下载包内包含快捷方式、使用说明和署名说明。当前场馆、演出与功能以原站为准；座位和视角模拟仅供参考，以实际演出安排为准。
+
+## 安卓手机使用方法
+
+安卓手机直接打开 **https://shijiao.xingpaste.com/** 即可使用，无需下载上面的 Windows ZIP。
+
+1. 用手机上的 Chrome、Edge 或系统浏览器打开原站。如果当前在微信或 QQ 内，请先选择“在浏览器打开”。
+2. 在网页中点击“找场馆 / 场次”，选择场馆或演出，查看“2D 座位图”或“3D 视角”。
+3. 想放到手机桌面：在 Chrome 右上角点 **⋮ → 添加到主屏幕**，然后按提示确认。其他浏览器中的菜单也可能叫“添加到桌面”或“添加到手机”。
+
+添加后点击桌面图标即可访问原站，仍需联网。本方式保存的是网页入口，不需要下载 APK。完整步骤和常见问题见 **[安卓手机教程](ANDROID.md)**。
 
 ## 原项目与作者署名
 
