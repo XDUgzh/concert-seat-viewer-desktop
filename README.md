@@ -1,8 +1,8 @@
-# 演唱会座位模拟器 · 电脑与安卓网页入口
+# 演唱会座位模拟器 · 电脑、安卓与 iOS 网页入口
 
-**视野 Live 的非官方网页入口整理。** 电脑可以下载桌面快捷方式包，安卓手机可以直接用浏览器打开原站，并添加到主屏幕，查看场馆座位图与 3D 观演视角。使用时需要联网。
+**视野 Live 的非官方网页入口整理。** 电脑可以下载桌面快捷方式包，安卓手机、iPhone 和 iPad 可以直接用浏览器打开原站，并添加到主屏幕，查看场馆座位图与 3D 观演视角。使用时需要联网。
 
-**[下载 Windows 入口包](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases/latest/download/concert-seat-viewer-windows.zip)** · **[安卓手机直接打开](https://shijiao.xingpaste.com/)** · **[安卓添加到主屏幕教程](ANDROID.md)** · [全部版本](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases)
+**[下载 Windows 入口包](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases/latest/download/concert-seat-viewer-windows.zip)** · **[手机直接打开网页版](https://shijiao.xingpaste.com/)** · **[安卓教程](ANDROID.md)** · **[iPhone / iPad 教程](IOS.md)** · [全部版本](https://github.com/XDUgzh/concert-seat-viewer-desktop/releases)
 
 ## Windows 电脑使用方法
 
@@ -23,6 +23,16 @@
 3. 想放到手机桌面：在 Chrome 右上角点 **⋮ → 添加到主屏幕**，然后按提示确认。其他浏览器中的菜单也可能叫“添加到桌面”或“添加到手机”。
 
 添加后点击桌面图标即可访问原站，仍需联网。本方式保存的是网页入口，不需要下载 APK。完整步骤和常见问题见 **[安卓手机教程](ANDROID.md)**。
+
+## iPhone / iPad 使用方法
+
+在 iPhone 或 iPad 上用 **Safari** 打开 **https://shijiao.xingpaste.com/**，即可访问网页版，无需下载 Windows ZIP 或安卓 APK。
+
+1. 如果链接在微信或 QQ 内打开，请先复制网址，再粘贴到 Safari 地址栏。
+2. 在网页中点击“找场馆 / 场次”，选择场馆或演出，查看“2D 座位图”或“3D 视角”。
+3. 想放到桌面：在 Safari 点 **分享按钮（方框向上箭头）→ 添加到主屏幕 → 添加**。部分布局需先打开“更多”菜单，才能看到分享操作。
+
+添加后点击主屏幕图标即可访问原站，仍需联网。完整步骤和常见问题见 **[iPhone / iPad 教程](IOS.md)**。
 
 ## 原项目与作者署名
 
